@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Philosophy, University of Connecticut
+* M.A. in Philosophy, University of Connecticut, 2014
+* B.A. in Philosophy, Brooklyn College, CUNY, 2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  * **Asif, N.** (2022). Minimal theory of mind–a Millikanian Approach. *Synthese*, 200(2), 1-26.
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Expression, Communication, and Origins of Meaning (ECOM) Research Group Talk on
+Minimal Theory of Mind, Fall 2020
   
-Teaching
+
+
+Academic Work
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Research Assistant**, UConn Humanities Institute, Fall 2021-Spring 2022
   
-Service and leadership
+* **Teaching Assistant**, Phil 1104: Philosophy and Social Ethics
+Fall 2019, Spring 2020, Spring 2021
+
+* **Teaching Assistant**, Phil 1106: Non-western and Comparative Philosophy, Fall 2020
+
+
+
+  
+Service Work
 ======
-* Currently signed in to 43 different slack teams
+* Institute for the Recruitment of Teachers Student Panelist, Fall 2020
+
+* UConn Graduate School Orientation, Fall 2020
+
+* Minorities and Philosophy (MAP) University of Connecticut Chapter Team Member, Fall
+2019 – Spring 2020
