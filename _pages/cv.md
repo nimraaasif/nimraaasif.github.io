@@ -37,13 +37,16 @@ Fall 2019, Spring 2020, Spring 2021
 * **Teaching Assistant**, Phil 1106: Non-western and Comparative Philosophy, Fall 2020
 
 
-
-  
-Service Work
+Fellowships
 ======
-* Institute for the Recruitment of Teachers Student Panelist, Fall 2020
+* Harriott Fellowship Award, University of Connecticut Graduate School,
+Fall 2019 - Present
 
-* UConn Graduate School Orientation, Fall 2020
+* Expression, Communication, and Origins of Meaning (ECOM) Research Group
+Fellowship, Summer 2020 & Winter 
 
-* Minorities and Philosophy (MAP) University of Connecticut Chapter Team Member, Fall
-2019 – Spring 2020
+* Stanley Malinovich Memorial Award for Excellence in Philosophy, Spring 2018
+
+* Philosophy Departmental Honors Award, Spring 2018
+
+* Beth J. Singer Scholarship for Excellence in Philosophy, Spring 2017
