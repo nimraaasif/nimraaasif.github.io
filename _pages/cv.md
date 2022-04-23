@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Philosophy, University of Connecticut, 2019-Present
-* M.A. in Philosophy, University of Connecticut, 2014
+* M.A. in Philosophy, University of Connecticut, 2021
 * B.A. in Philosophy, Brooklyn College, CUNY, 2018
 
 
