@@ -43,8 +43,7 @@ Fellowships and Awards
 Fall 2019 - Present
 
 * Expression, Communication, and Origins of Meaning (ECOM) Research Group
-Fellowship, Summer 2020 & Winter 
-
+Fellowship, Summer 2020 & Winter 2021
 * Stanley Malinovich Memorial Award for Excellence in Philosophy, Spring 2018
 
 * Philosophy Departmental Honors Award, Spring 2018
