@@ -37,7 +37,7 @@ Fall 2019, Spring 2020, Spring 2021
 * **Teaching Assistant**, Phil 1106: Non-western and Comparative Philosophy, Fall 2020
 
 
-Fellowships
+Fellowships and Awards
 ======
 * Harriott Fellowship Award, University of Connecticut Graduate School,
 Fall 2019 - Present
