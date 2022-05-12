@@ -13,4 +13,4 @@ I am a Ph.D student at UConn working under the supervision of [Dorit Bar-on](htt
 
 Publications
 ======
-  * **Asif, N.** (2022). Minimal theory of mind–a Millikanian Approach. *Synthese*, 200(2), 1-26.
+  * **Asif, N.** (2022). [Minimal theory of mind–a Millikanian Approach.](/files/Minimal_Theory_of_Mind–A_Millikanian_Approach.pdf) *Synthese*, 200(2), 1-26.
