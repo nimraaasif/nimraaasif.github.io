@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/CV.pdf" class="btn btn--info" download>Download PDF</a>
+
 Education
 ======
 * Ph.D. in Philosophy, University of Connecticut, 2019-Present
