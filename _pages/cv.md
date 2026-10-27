@@ -19,7 +19,7 @@ Research Areas
 Education
 ======
 * **Ph.D. in Philosophy**, University of Connecticut. August 2026.
-  * Dissertation: *Minimal Mindreading: A Millikanian Approach*
+  * Dissertation: [*Minimal Mindreading: A Millikanian Approach*](https://hdl.handle.net/11134/4191538)
   * Committee: Dorit Bar-On (advisor), William Lycan, Lionel Shapiro, Richard Moore (external reader)
 * **Graduate Certificate in College Instruction**, University of Connecticut. May 2026.
 * **Graduate Certificate in Cognitive Science**, University of Connecticut. May 2026.

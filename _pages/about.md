@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Philosophy from the University of Connecticut in August 2026, where I worked under the supervision of [Dorit Bar-On](https://www.doritbar-on.com/). My areas of specialization are philosophy of mind and philosophy of animal minds. My dissertation, *Minimal Mindreading: A Millikanian Approach*, develops an account of a form of mindreading that those with limited or still developing cognitive resources, such as nonhuman animals and infants, can plausibly use to understand others. Drawing on the teleosemantic framework, especially Millikan's notion of pushmi-pullyu representations, I argue that minimal mindreaders represent others' mental states as affordances, recognizing and responding to them noninferentially, without concepts or mental state attribution.
+I received my Ph.D. in Philosophy from the University of Connecticut in August 2026, where I worked under the supervision of [Dorit Bar-On](https://www.doritbar-on.com/). My areas of specialization are philosophy of mind and philosophy of animal minds. My dissertation, [*Minimal Mindreading: A Millikanian Approach*](https://hdl.handle.net/11134/4191538), develops an account of a form of mindreading that those with limited or still developing cognitive resources, such as nonhuman animals and infants, can plausibly use to understand others. Drawing on the teleosemantic framework, especially Millikan's notion of pushmi-pullyu representations, I argue that minimal mindreaders represent others' mental states as affordances, recognizing and responding to them noninferentially, without concepts or mental state attribution.
 
 
 Publications
