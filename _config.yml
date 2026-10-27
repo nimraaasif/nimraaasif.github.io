@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nimra Asif"
 title_separator          : "-"
 name                     : &name "Nimra Asif"
-description              : &description "Doing a Ph.D. in Philosophy at UConn"
+description              : &description "Ph.D. in Philosophy, University of Connecticut"
 url                      : https://nimraaasif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nimraaasif/nimraaasif.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nimra Asif"
   avatar           : "profile.png"
-  bio              : "Doing a Ph.D. in Philosophy at UConn"
+  bio              : "Ph.D. in Philosophy, University of Connecticut"
   location         : "Storrs/NYC"
   employer         :
   pubmed           : 
