@@ -32,10 +32,6 @@ Research Publications
 
 * **Asif, N.** (2022). "Minimal theory of mind – a Millikanian approach." *Synthese*, 200(2), Article 150. [https://doi.org/10.1007/s11229-022-03662-6](https://doi.org/10.1007/s11229-022-03662-6)
 
-**Papers Under Review**
-
-* "Pushmi-pullyu Representations: What They Are and Why They Matter," under review; draft available upon request.
-* "Detached Factic Thought" (with Drew Johnson), under review; draft available upon request.
 
 Research Experience
 ======
